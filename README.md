@@ -6,7 +6,7 @@
 *** Masque sous réseaux : 255.255.255.0****
 *** Pasrelle par défaut : 172.20.0.1 ***
 
-![La partition sdb](https://github.com/KAOUTARBAH/Checkpoint1/blob/main/partition.png)
+![La partition sdb](https://github.com/KAOUTARBAH/DHCP-server/blob/main/images/adresse-server.png)
 
 
 
