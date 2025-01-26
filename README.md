@@ -53,7 +53,7 @@
 ![reservation-ok](https://github.com/KAOUTARBAH/DHCP-server/blob/main/images/reservation-ok.png)
 
 
-##Critères d'acceptation
+## Critères d'acceptation
     Le serveur DHCP possède un nom d'hôte adapté à son rôle (Exemple: SRV-DHCP) ainsi qu'une configuration IP correcte.
 
 ![nom serveur](https://github.com/KAOUTARBAH/DHCP-server/blob/main/images/name-server.png)
