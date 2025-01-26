@@ -2,9 +2,9 @@
 
 ## Configure la carte réseau de ta machine virtuelle en Réseau Interne
 
-***Adresse ip Statique : 172.20.0.2***
-***Masque sous réseaux : 255.255.255.0***
-***Pasrelle par défaut : 172.20.0.1***
+    Adresse ip Statique : 172.20.0.2
+    Masque sous réseaux : 255.255.255.0
+    Pasrelle par défaut : 172.20.0.1
 
 ![L'adresse ip serveur](https://github.com/KAOUTARBAH/DHCP-server/blob/main/images/adresse-server.png)
 
