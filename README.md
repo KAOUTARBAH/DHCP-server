@@ -71,6 +71,14 @@
 
 ![adresse client Reservé](https://github.com/KAOUTARBAH/DHCP-server/blob/main/images/adresse-clt-reseve.png)
 
+#### La première commande va permettre de libérer le bail DHCP au niveau du serveur DHCP, ce qui implique que le PC va perdre son adresse IP
+***ipconfig /release***
+
+#### une nouvelle demande d'adresse IP auprès du serveur DHCP 
+***ipconfig /renew***
+
+![renouvlemnrtadresse clt ](https://github.com/KAOUTARBAH/DHCP-server/blob/main/images/renouv-add-dhcp.png)
+
 
 
 
