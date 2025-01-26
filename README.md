@@ -12,7 +12,7 @@
 
 ### Au sein du "Gestionnaire de serveur", cliquez sur "Gérer" et "Ajouter des rôles et fonctionnalités".
 
-![L'adresse ip serveur](https://github.com/KAOUTARBAH/DHCP-server/blob/main/images/type-insallation.png)
+![Type d'instalation](https://github.com/KAOUTARBAH/DHCP-server/blob/main/images/type-insallation.png)
 
 ![serveur de destination dhcp](https://github.com/KAOUTARBAH/DHCP-server/blob/main/images/server-dest.png)
 
